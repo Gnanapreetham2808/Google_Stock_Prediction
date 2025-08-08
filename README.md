@@ -4,12 +4,7 @@ This project explores the application of Long Short-Term Memory (LSTM) networks 
 
 ---
 
-## 👥 Team Members
-- **Somireddy Gnana Preetham Reddy** – 22BCE7425  
-- **Dudala Sai Sujan** – 22BCE7813  
-- **Masana Sai Krishna Reddy** – 22BCE7292
 
----
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -125,4 +120,5 @@ LSTM-based models, especially hybrid variants, outperform traditional models lik
 - Tools Used: Python, TensorFlow/Keras, NumPy, Matplotlib, Sklearn
 - IDE: Jupyter Notebook / Google Colab
 - Data Source: Yahoo Finance (Google Stock Prices)
+
 
